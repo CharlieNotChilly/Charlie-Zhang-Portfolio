@@ -61,7 +61,7 @@ const Service = () => {
                 </motion.div>
                 <motion.div className="box" whileHover={{ background: "lightgray", color: "black" }}>
                     <h2> Exercise Correc</h2>
-                    <img src="public/exercise.webp" alt=""/>
+                    <img src="exercise.webp" alt=""/>
                     <a className = "imgButton" href="https://venturebeat.com/ai/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/ ">
                         <button className = "cButton" >Go</button></a>
                 
